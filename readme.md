@@ -62,9 +62,3 @@ After migration, run the database seeder:
 
     php artisan db:seed
     
-Once done migrating and seeding you will have default user:
-
-    email: email@gmail.com
-    password: 123456   
-  
-### Credit to the original developer, kmanjari - https://github.com/kmanjari/hrms
